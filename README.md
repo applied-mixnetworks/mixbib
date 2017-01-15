@@ -2,7 +2,7 @@
 Overview
 --------
 This repository contains the BibTeX file and HTML templates that are used to
-create the Mix Network Bibliography, mixbib.
+create the Mix Network Bibliography, mixbib. Find the HTML version here: http://mixbib.censor.watch
 
 Build it
 --------
@@ -25,4 +25,4 @@ https://github.com/NullHypothesis/censorbib
 
 Feedback
 --------
-Contact: insert-e-mail-address-here
+Contact: IRC #applied-mixnetworks @ [hackint.org](https://www.hackint.org) - [webchat](https://webirc.hackint.org/#applied-mixnetworks)
