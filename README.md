@@ -18,7 +18,7 @@ Then, run the following commands to write the bibliography to `OUTPUT_DIR`.
 
 Acknowledgements
 ----------------
-Thanks to Phillip Winter, this repository is inspired by the censorbib repo:
+Thanks to Philipp Winter, this repository is inspired by the censorbib repo:
 
 https://github.com/NullHypothesis/censorbib
 
