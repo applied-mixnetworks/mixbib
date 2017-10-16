@@ -39,6 +39,13 @@ def download_pdf(url, file_name):
         print >> sys.stderr, err
         return
 
+    if not os.path.exists(os.path.dirname(file_name)):
+        try:
+            os.makedirs(os.path.dirname(file_name))
+        except OSError as exc: # Guard against race condition; from http://stackoverflow.com/a/12517490
+            if exc.errno != errno.EEXIST:
+                raise
+                
     with open(file_name, "w") as fd:
         fd.write(fetched_file.read())
 
