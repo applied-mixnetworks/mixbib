@@ -1,11 +1,9 @@
 Mixbib
 ======
 
-Overview
---------
 This repository contains the BibTeX file and HTML templates that are used to
-create the Mix Network Bibliography, mixbib. Find the HTML version here: http://mixbib.censor.watch
-
+create the Mix Network Bibliography, mixbib. Find the HTML version here:
+https://bib.mixnetworks.org
 
 Build it
 --------
@@ -26,9 +24,9 @@ Thanks to Philipp Winter, this repository is inspired by the censorbib repo:
 https://github.com/NullHypothesis/censorbib
 
 
-Feedback
---------
-Contact:
+Contact
+-------
 
 IRC #katzenpost @ OFTC https://www.oftc.net/
-Katzenpost Mailing List https://lists.mixnetworks.org/listinfo/katzenpost
+
+Mix network mailing list https://lists.mixnetworks.org/listinfo/mixnetworks
